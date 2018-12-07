@@ -1,0 +1,19 @@
+{
+  "name": "@a2way/hi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2way-com/hi-npm.git"
+  },
+  "author": "Supun Budhajeewa <budhajeewa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2way-com/hi-npm/issues"
+  },
+  "homepage": "https://github.com/a2way-com/hi-npm#readme"
+}
